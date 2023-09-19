@@ -1,7 +1,6 @@
 # Pengalaman Bejalar di freecodecamp
 
-02 Februari 2022
---
+**02 Februari 2022**<br>
 Sertifikasi Rensponsive Web Design dengan Belajar bahasa untuk pengembangan web HTML dan CSS (100%)
 * Learn HTML by Building a Cat Photo App
 * Learn Basic CSS by Building a Cafe Menu
@@ -23,10 +22,7 @@ Sertifikasi Rensponsive Web Design dengan Belajar bahasa untuk pengembangan web 
 * Learn CSS Transforms by Building a Penguin
 * Personal Portfolio Webpage | Certification Project
 
-
-
-19 September 2023
---
+**19 September 2023**<br>
 Belajar JavaScript Algorithms and Data Structures (38%)
 * Basic JavaScript
 * ES6
