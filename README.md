@@ -26,4 +26,3 @@ Sertifikasi Rensponsive Web Design dengan Belajar bahasa untuk pengembangan web 
 Belajar JavaScript Algorithms and Data Structures (38%)
 * Basic JavaScript
 * ES6
-* Regular Expressions
