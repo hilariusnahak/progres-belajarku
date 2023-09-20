@@ -27,4 +27,3 @@ Belajar JavaScript Algorithms and Data Structures (38%)
 * Basic JavaScript
 * ES6
 
-Kamu cantik dan ganteng
